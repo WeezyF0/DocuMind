@@ -28,7 +28,8 @@ A Retrieval-Augmented Generation (RAG) pipeline that ingests PowerPoint, PDF, an
 
 ### 🧠 Architecture Overview
 
-![DocuMind Flow Diagram](https://github.com/user-attachments/assets/f5124b43-c9b4-428b-a876-6e38408613f6)
+![DocuMind Flow Diagram](https://github.com/user-attachments/assets/2fb817bb-4479-4b03-9f68-bfdb8116a21e)
+
 
 ---
 
