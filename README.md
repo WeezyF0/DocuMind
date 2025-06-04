@@ -16,4 +16,11 @@ A Retrieval-Augmented Generation (RAG) pipeline that ingests PowerPoint, PDF, an
 > **Use Cases:**  
 > - Instant Q&A over slide decks, research papers, or lengthy reports  
 > - Summarization of tables/figures + contextual explanation  
-> - Building chatbots that “know” your proprietary docs + general knowledge  
+> - Building chatbots that “know” your proprietary docs + general knowledge
+
+
+## 🙋‍♂️ Acknowledgments
+Unstructured by Elaine and team for seamless PDF/PPTX partitioning.
+LangChain for providing a modular RAG framework.
+Chroma for a lightweight, local vector store.
+Google Gemini, OpenAI, and Groq teams for state-of-the-art LLM APIs.
