@@ -20,7 +20,7 @@ A Retrieval-Augmented Generation (RAG) pipeline that ingests PowerPoint, PDF, an
 
 
 ## 🙋‍♂️ Acknowledgments
-Unstructured by Elaine and team for seamless PDF/PPTX partitioning.
-LangChain for providing a modular RAG framework.
-Chroma for a lightweight, local vector store.
-Google Gemini, OpenAI, and Groq teams for state-of-the-art LLM APIs.
+1. Unstructured by Elaine and team for seamless PDF/PPTX partitioning.
+2. LangChain for providing a modular RAG framework.
+3. Chroma for a lightweight, local vector store.
+4. Google Gemini, OpenAI, and Groq teams for state-of-the-art LLM APIs.
